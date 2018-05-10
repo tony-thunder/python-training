@@ -6,6 +6,7 @@
         <entryData>
           <resourceRoots>
             <path value="file://$PROJECT_DIR$/mastering-pycharm-course/demos/projects/wizard" />
+            <path value="file://$PROJECT_DIR$/mastering-pycharm-course/demos/projects/podcast" />
           </resourceRoots>
         </entryData>
       </entry>
